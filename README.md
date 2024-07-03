@@ -1,16 +1,10 @@
-# emartapp
+# E-Mart App
+A Flutter application (using dart) for an electronic market application that allows users to buy different products using Firebase for login features.
 
-A new Flutter project.
+# Libraries Used
+- firebase_core : for firebase
+- firebase_auth : for authentication in firebase
+- lottie : for the logo
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# App
+![eMartApp](https://github.com/AryanAAB/E-Mart-App/assets/145079379/0dc0916d-7d01-40ae-8937-b0e52e870eb0)
