@@ -1,5 +1,5 @@
 # E-Mart App
-A Flutter application (using dart) for an electronic market application that allows users to buy different products using Firebase for login features.
+A Flutter application (using dart) for an electronic market application that allows users to buy different products using Firebase for login and storing user data.
 
 # Libraries Used
 - firebase_core : for firebase
